@@ -14,7 +14,14 @@ const HeroSection = () => {
                 <Button href="#" txt="Get Started" />
             </div>
             <div className="col col-2">
-            
+                <div className="stat stat-1">
+                    <p className="stat-name">Course hours</p>
+                    <p className="stat-num">1451</p>
+                </div>
+                <div className="stat stat-2">
+                    <p className="stat-name">Members</p>
+                    <p className="stat-num">29k</p>
+                </div>
             </div>
         </section>
     )
