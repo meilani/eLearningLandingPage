@@ -1,6 +1,12 @@
+import HeroSection from "./HeroSection"
+import CardSection from "./CardSection"
+
 const Main = () => {
     return (
-        <main></main>
+        <main>
+            <HeroSection />
+            <CardSection />
+        </main>
     )
 }
 
