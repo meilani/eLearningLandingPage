@@ -1,0 +1,48 @@
+@import "./shared.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: $baseFontSize;
+}
+
+body {
+  font-size: 1rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 500;
+}
+
+img {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  color: #fff;
+  background-image: $accentGradientAlt;
+  border-radius: $borderRadiusBtn;
+  font-weight: 700;
+  line-height: 1.6em;
+  padding: .8rem 1.8rem;
+}
+
+footer {
+  background-color: $bgDark;
+  padding: 1.8rem;
+
+  .container {
+    width: 100%;
+    max-width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
