@@ -1,3 +1,9 @@
+@import "./shared.scss";
+
+p {
+  color: $mainFontColor;
+}
+
 .App {
   text-align: center;
 }
