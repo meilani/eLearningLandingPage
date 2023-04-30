@@ -83,6 +83,7 @@ p {
 
 .card-section {
   background-image: $pageBgGradient;
+  padding-bottom: 7.8rem;
 }
 
 .card-container {
@@ -166,6 +167,9 @@ footer {
 }
 
 main {
+  overflow-x: hidden;
+  margin-top: -13.75rem;
+
  > section > div {
   max-width: 1110px;
   margin: 0 auto;
@@ -173,9 +177,21 @@ main {
 }
 
 .hero {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  margin-bottom: 4rem;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .col {
+    width: 50%;
+  }
+
+  .col-1 {
+    margin-top: 11rem;
+  }
 
   h2 {
     font-size: 3.1rem;
