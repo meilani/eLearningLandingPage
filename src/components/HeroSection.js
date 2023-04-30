@@ -20,16 +20,18 @@ const HeroSection = () => {
                 <div className="col col-2">
                     <picture>
                         <source 
-                            srcset={heroImgMobile}
+                            srcSet={heroImgMobile}
                             media="(max-width: 767px)" 
                         />
                         <source 
-                            srcset={heroImgTablet}
+                            srcSet={heroImgTablet}
                             media="(max-width: 1280px)" 
                         />
                         <img 
                             src={heroImgDesktop}
                             alt="Members 29 k, course hours 1451"
+                            width="1046"
+                            height="938"
                         />
                     </picture>
                 </div>

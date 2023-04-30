@@ -359,12 +359,22 @@ main {
   }
 
   img {
-    @media screen and (max-width: 1280px) {
-      transform: translateX(-10%);
-    }
+    aspect-ratio: 1046 / 938;
+    width: 1046px;
+    height: auto;
 
     @media screen and (max-width: 1280px) {
+      transform: translateX(-10%);
+      aspect-ratio: 695 / 723;
+      width: 695px;
+    }
+
+    @media screen and (max-width: 767px) {
       transform: translateX(0);
+      aspect-ratio: 435 / 409;
+      width: 435px;
+      max-width: 100%;
+      margin: 0 auto;
     }
   }
 
