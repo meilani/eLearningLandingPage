@@ -11,7 +11,6 @@ const Cards = ({ cardContents }) => {
                         alt=""
                         height="56"
                         width="56"
-                        loading="lazy"
                     />
                     <h3 className="card-title">{content.title}</h3>
                     <p className="card-text">{content.text}</p>
