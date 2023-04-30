@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eLearningLandingPage/static/css/main.3cb443fe.css",
+    "main.js": "/eLearningLandingPage/static/js/main.df5b487a.js",
+    "static/js/787.7985c805.chunk.js": "/eLearningLandingPage/static/js/787.7985c805.chunk.js",
+    "static/media/image-hero-desktop.webp": "/eLearningLandingPage/static/media/image-hero-desktop.a1ed811c49927ad2423a.webp",
+    "static/media/image-hero-tablet.webp": "/eLearningLandingPage/static/media/image-hero-tablet.3285c911ee87c11a9d7a.webp",
+    "static/media/image-hero-mobile.webp": "/eLearningLandingPage/static/media/image-hero-mobile.c84a484ed2f4253320c8.webp",
+    "static/media/logo-dark.svg": "/eLearningLandingPage/static/media/logo-dark.bd6dbe3fb81a86888ece82aa3764d1a4.svg",
+    "static/media/logo-light.svg": "/eLearningLandingPage/static/media/logo-light.9fb3a720f1b85b9ed9991de94726c34b.svg",
+    "static/media/icon-animation.svg": "/eLearningLandingPage/static/media/icon-animation.222979d47fd2dbbc9a215695c907fd93.svg",
+    "index.html": "/eLearningLandingPage/index.html",
+    "static/media/icon-crypto.svg": "/eLearningLandingPage/static/media/icon-crypto.8d407fcff65885d92537a9d941d476d4.svg",
+    "static/media/icon-business.svg": "/eLearningLandingPage/static/media/icon-business.e1585951503a38781a9919e3ade6a40e.svg",
+    "static/media/icon-photography.svg": "/eLearningLandingPage/static/media/icon-photography.eeaad81e7533c8103b7235301dce7c03.svg",
+    "static/media/icon-design.svg": "/eLearningLandingPage/static/media/icon-design.06f787d808ae5438fdfee22122ff6424.svg",
+    "main.3cb443fe.css.map": "/eLearningLandingPage/static/css/main.3cb443fe.css.map",
+    "main.df5b487a.js.map": "/eLearningLandingPage/static/js/main.df5b487a.js.map",
+    "787.7985c805.chunk.js.map": "/eLearningLandingPage/static/js/787.7985c805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb443fe.css",
+    "static/js/main.df5b487a.js"
+  ]
+}
