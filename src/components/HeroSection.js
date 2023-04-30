@@ -13,7 +13,7 @@ const HeroSection = () => {
                         minimize budget 
                     </h2>
                     <p>
-                        Our modern courses across a range of in-demand skills will give you the knowledge you need to live the life you want.
+                        Our modern courses across a range of in&#8209;demand skills will give you the knowledge you need to live the life you want.
                     </p>
                     <Button href="#" txt="Get Started" color="pink" />
                 </div>
